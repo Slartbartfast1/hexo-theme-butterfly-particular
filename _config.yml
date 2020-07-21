@@ -86,7 +86,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: /img/avatar.png
+  img: https://haungrui-image.oss-cn-beijing.aliyuncs.com/u%3D3215140288%2C862061629%26fm%3D26%26gp%3D0.jpg
   effect: false
 
 # the banner image of home page
